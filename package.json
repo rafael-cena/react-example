@@ -1,7 +1,6 @@
 {
   "name": "react-example",
   "version": "0.1.0",
-  "homepage": "https://rafael-cena.github.io/react-example",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
